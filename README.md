@@ -42,9 +42,6 @@ A fun **Hangman-style** word guessing game written in **MIPS Assembly** for MARS
 - `lettertrapg.asm` → Main game source code
 - `README.md` → This documentation
 
-## Screenshots
-
-(You can add screenshots here later)
 
 ## License
 
